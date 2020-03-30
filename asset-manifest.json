@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Demon-Hub/static/css/main.a2c957f7.chunk.css",
+    "main.js": "/Demon-Hub/static/js/main.dedda988.chunk.js",
+    "main.js.map": "/Demon-Hub/static/js/main.dedda988.chunk.js.map",
+    "runtime-main.js": "/Demon-Hub/static/js/runtime-main.cc923a74.js",
+    "runtime-main.js.map": "/Demon-Hub/static/js/runtime-main.cc923a74.js.map",
+    "static/js/2.1865c3e2.chunk.js": "/Demon-Hub/static/js/2.1865c3e2.chunk.js",
+    "static/js/2.1865c3e2.chunk.js.map": "/Demon-Hub/static/js/2.1865c3e2.chunk.js.map",
+    "index.html": "/Demon-Hub/index.html",
+    "precache-manifest.0eed4af108a2bc07263ae459440014ab.js": "/Demon-Hub/precache-manifest.0eed4af108a2bc07263ae459440014ab.js",
+    "service-worker.js": "/Demon-Hub/service-worker.js",
+    "static/css/main.a2c957f7.chunk.css.map": "/Demon-Hub/static/css/main.a2c957f7.chunk.css.map",
+    "static/js/2.1865c3e2.chunk.js.LICENSE.txt": "/Demon-Hub/static/js/2.1865c3e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc923a74.js",
+    "static/js/2.1865c3e2.chunk.js",
+    "static/css/main.a2c957f7.chunk.css",
+    "static/js/main.dedda988.chunk.js"
+  ]
+}
